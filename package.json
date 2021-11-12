@@ -1,0 +1,17 @@
+{
+  "name": "comment-tail-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.4",
+    "@vue/compiler-sfc": "^3.2.21",
+    "autoprefixer": "^10.4.0",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4",
+    "vue": "^3.2.21"
+  }
+}
